@@ -13,10 +13,10 @@
 ## Development
 
 
-To install and work on `https://github.com/Muhammet-Duran/Movie-App`
+To install and work on `https://github.com/Muhammet-Duran/todo-list`
 
 ```bash
-git clone https://github.com/Muhammet-Duran/Movie-App
+git clone https://github.com/Muhammet-Duran/todo-list
 cd movie-app
 npm install or yarn install
 ```
