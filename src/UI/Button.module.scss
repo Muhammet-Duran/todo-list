@@ -1,0 +1,15 @@
+@import "./../styles/index.scss";
+.btn__outline {
+  font-family: inherit;
+  color: $textColor;
+  border: 1px solid transparent;
+  padding: 8px 10px;
+  border-radius: $borderRadius;
+  cursor: pointer;
+  background-color: transparent;
+  transition: all 0.3s linear;
+  &:hover {
+    background-color: rgba($textColor, 0.1);
+    border-color: $textColor;
+  }
+}

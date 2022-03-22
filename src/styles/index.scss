@@ -1,0 +1,18 @@
+@import "./reset.scss";
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700&display=swap");
+
+//fonts
+$lato: "Lato", sans-serif;
+$white: #FFFFFF;
+$textColor:#499DF5;
+$bgColor:#003366;
+$borderRadius:4px;
+
+body{
+    width: 100%;
+    font-family: $lato;
+    background-image: linear-gradient(to bottom, #003366, #535f8a, #8e90af, #c7c6d6);
+    height: 100vh;
+   
+}
+#root{height: 100%;}
