@@ -1,5 +1,5 @@
 # todo-list
-- [Demo](https://movie-app-muhammet-duran.vercel.app/)
+
 
 ![todo gif](https://user-images.githubusercontent.com/76096635/159496787-e16dc6d4-73a1-46b7-aa93-f132c232b555.gif)
 
